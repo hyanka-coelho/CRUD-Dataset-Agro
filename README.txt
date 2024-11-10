@@ -1,10 +1,10 @@
-## CRUD em Dataset Público do Agro 
+CRUD em Dataset Público do Agro 
 
 O Ministério da Agricultura e Pecuária (Mapa) é responsável pela gestão das políticas públicas de estímulo à agropecuária, 
 pelo fomento do agronegócio e pela regulação e normatização de serviços vinculados ao setor.
 O dataset escolhido abrange Relação de Produtores Orgânicos de todo o Brasil e de países que exportam para o Brasil.
 
-* **O dataset abrange:*
+O dataset abrange:
 Tipo de entidade - Organismos de avaliação da conformidade orgânica
 Entidade - O nome das entidades
 País - país de origem do produto
