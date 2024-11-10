@@ -1,8 +1,10 @@
+## CRUD em Dataset Público do Agro 
+
 O Ministério da Agricultura e Pecuária (Mapa) é responsável pela gestão das políticas públicas de estímulo à agropecuária, 
 pelo fomento do agronegócio e pela regulação e normatização de serviços vinculados ao setor.
 O dataset escolhido abrange Relação de Produtores Orgânicos de todo o Brasil e de países que exportam para o Brasil.
 
-O dataset abrange:
+* **O dataset abrange:*
 Tipo de entidade - Organismos de avaliação da conformidade orgânica
 Entidade - O nome das entidades
 País - país de origem do produto
@@ -19,4 +21,4 @@ Assim é possível navegar entre as tabelas com o id incremental, criado para re
 No código sql é possível observar a criação das tabelas, sua relação e depois a inserção dos dados para preencher as informações,
 no final tem a consulta relacionada aos dados onde é capturado os produtores e suas entidades que estão no Brasil e apresentam o cnpj ativo.
 
-site oficial da base de dados: https://dados.agricultura.gov.br/sv/dataset/cadastro-nacional-de-produtores-organicos
+Site oficial da base de dados: https://dados.agricultura.gov.br/sv/dataset/cadastro-nacional-de-produtores-organicos
